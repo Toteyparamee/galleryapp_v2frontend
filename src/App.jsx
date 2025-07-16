@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Gallery from './components/Gallery';
 import Upload from './components/Upload';
 import FaceSearch from './components/FaceSearch';
-import './App.css';
+import './app.css';
 
 function App() {
   return (
